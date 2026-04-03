@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on City Bus Tracking app for the new folks in city and also for the general public<br>🤝 I’m looking for help with learning and diving deeper into the world of cybersecurity<br>🌱 I’m currently learning how to train LLM models<br>💬 Ask me about music theory<br>⚡ Fun fact: I play most of the instruments(except violin and trumpet)
+🔭 I’m currently working on City Bus Tracking app for the new folks in city and also for the general public<br>🤝 I’m looking for help with learning and diving deeper into the world of cybersecurity<br>🌱 I’m currently learning how to train LLMs<br>💬 Ask me about music theory<br>⚡ Fun fact: I play most of the instruments(except violin and trumpet)
 
 
 ## 🌐 Socials:
